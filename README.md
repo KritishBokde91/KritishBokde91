@@ -2,7 +2,13 @@
 
 <div align="center">
   
-  ![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Flutter%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Amazing%20Mobile%20%26%20Web%20Experiences&descAlignY=51&descAlign=50)
+  ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+  
+  <!-- Alternative banners - uncomment any one you prefer:
+  ![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Flutter%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kritish%20Bokde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Firebase%20Expert&descAlignY=51&descAlign=62)
+  -->
   
   ### 🚀 Flutter App Developer • 🔥 Firebase Expert • 🛠️ GitHub Enthusiast
   
@@ -19,6 +25,7 @@
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kritishbokde91&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true)
   
   <br>
+  
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kritishbokde91&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritishbokde91&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
@@ -136,7 +143,7 @@ class KritishBokde {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritish-bokde91)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritish%20bokde)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KritishBokde91)
   [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kritishbokde_of1)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/kritishbokde)
@@ -144,7 +151,7 @@ class KritishBokde {
   
   <br><br>
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=120&section=footer)
   
   <br>
   
