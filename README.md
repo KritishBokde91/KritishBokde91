@@ -25,6 +25,10 @@
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kritishbokde91&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true)
   
   <br>
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kritishbokde91&theme=calm" alt="Git Streak" />
+
+  <br>
   
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kritishbokde91&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
